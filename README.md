@@ -17,7 +17,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <Your_GitHub_Repo_URL>
+   git clone https://github.com/C4N4242/express-scheduler-app.git
    cd my-svelte-schedule-app
    ```
 
@@ -64,7 +64,7 @@
 
 1. リポジトリをクローンします:
    ```bash
-   git clone <Your_GitHub_Repo_URL>
+   git clone https://github.com/C4N4242/express-scheduler-app.git
    cd my-svelte-schedule-app
    ```
 
