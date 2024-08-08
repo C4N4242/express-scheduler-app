@@ -42,9 +42,6 @@
 
 5. Open your browser and go to `http://localhost:3000` to view the app.
 
-## License
-[MIT](LICENSE)
-
 # 予定管理アプリ
 
 ## 機能
